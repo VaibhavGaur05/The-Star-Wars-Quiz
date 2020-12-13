@@ -194,6 +194,6 @@ console.log(chalk.bold("\nCheck out the Best in the Galaxy :\n"));
       console.log(bestscore[i].name + " : " + bestscore[i].score);
     }
     console.log("\n");
-    console.log(chalk.bold.bgYellow("Send me a screenshot trooper if you have beaten the top ones in the Galaxy and then you shall have your name among them!"));
+    console.log(chalk.bgYellow("Send me a screenshot trooper if you have beaten the top ones in the Galaxy and then you shall have your name among them!"));
 
 
